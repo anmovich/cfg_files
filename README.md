@@ -2,10 +2,10 @@
 ### Фото
 ![Hypr](img/Hypr.png)
 ![Wofi](img/wofi.png)
-
+---
 ### Используемые приложения
 Приложение|Назначение       |
-:---------|----------------:|
+:---------|:----------------|
 imv       |Просмотр картинок
 cmus      |Музыка
 mpv       |Видео
@@ -17,5 +17,11 @@ waybar    |Bar
 slurp,    |
 grim,     |Screenshots
 wl-copy   |
+swaybg    |wallpapers
+---
+### GTK
+- [Theme](https://www.pling.com/p/1810560)
+- [Cursor](https://www.gnome-look.org/p/1914825)
+- Icons - Papirus Dark
 
 
