@@ -1,0 +1,1 @@
+# Мой конфиг Hyprland + Arch
